@@ -1,0 +1,8 @@
+## Interface: 16001, 11507, 20505, 30403, 40402, 50500
+## Title: Yapbook
+## Notes: A spellbook for your chat messages. Categories, professions, presets and paced sending.
+## Author: Tony
+## Version: 1.3
+## SavedVariables: YapbookDB, LyricPlayerDB
+
+Yapbook.lua
